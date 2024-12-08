@@ -1,4 +1,5 @@
-#Obesity-KNN-Analysis-
+# Obesity KNN Analysis
+
 This project demonstrates the implementation of a **K-Nearest Neighbors (KNN)** algorithm for analyzing obesity trends based on input features. The analysis aims to classify individuals into categories related to obesity based on specific attributes.
 
 ## Features
